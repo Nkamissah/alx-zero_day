@@ -1,1 +1,1 @@
-This file is mandatory in all ALX School projects
+This is a README.md file in the alx-zero_day repository
